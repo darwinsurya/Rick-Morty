@@ -1,10 +1,29 @@
 <div align="center">
 
+```
+ ____  _     ____  ____   ___    ____  ___  
+|  _ \| |   |  _ \/ ___| / _ \  / ___|/ _ \ 
+| |_) | |   | |_) \___ \| | | | \___ \ (_) |
+|  _ <| |___|  _ < ___) | |_| |  ___) \__, |
+|_| \_\_____|_| \_\____/ \___/  |____/  /_/ 
+```
+
 # 🧪 RICK-OS C-137
 
 **A fan-made operating system for the multiverse.**
 
 Portal fluid not included. Handle with care — or don't, honestly, that's kind of Rick's whole thing.
+
+![Portal Fluid](https://img.shields.io/badge/Portal%20Fluid-85%25-%23aff81a?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Operational-%2300affe?style=for-the-badge)
+![Wubba Lubba Dub Dub](https://img.shields.io/badge/Wubba%20Lubba%20Dub%20Dub-%F0%9F%8C%8C-%238dcdff?style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-19-%2361DAFB?logo=react&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-%233178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-6-%23646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-%2306B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Motion](https://img.shields.io/badge/Motion-Framer-%23e91e8c?style=for-the-badge)
+![Recharts](https://img.shields.io/badge/Recharts-3-%23F7B500?style=for-the-badge)
 
 </div>
 
