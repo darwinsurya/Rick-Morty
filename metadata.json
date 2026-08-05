@@ -1,0 +1,6 @@
+{
+  "name": "RICK-OS v1.0",
+  "description": "Interdimensional HUD and operating system featuring Portal Hub, Holographic Characters Carousel, Lab Notes & Schematics, and Multiverse Topology Map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
